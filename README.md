@@ -1,6 +1,6 @@
 # ☝️Sha512 ![](https://img.shields.io/apm/l/vim-mode)
 
-<img src="https://github.com/vladimirrogozin/Sha512/blob/main/Screenshots/sha512_main.png?raw=true" style="object-fit:contain;
+<img src="https://github.com/red-sayed/Sha512/blob/main/Screenshots/sha512_main.png?raw=true" style="object-fit:contain;
             width:auto;
             height:520px;">
 
@@ -55,7 +55,7 @@ Speed test can will be soon, sorry.
 
 ## Example:
 
-<img src="https://github.com/vladimirrogozin/Sha512/blob/main/Screenshots/sha512_ex.png?raw=true" style="object-fit:contain;
+<img src="https://github.com/red-sayed/Sha512/blob/main/Screenshots/sha512_ex.png?raw=true" style="object-fit:contain;
             width:auto;
             height:520px;">
 
